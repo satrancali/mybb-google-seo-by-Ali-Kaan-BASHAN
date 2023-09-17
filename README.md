@@ -5,4 +5,4 @@ MyBB Google Seo 1.8.5 for PHP 8.1 , 8.0 , 7.2 , 7.1 for update for PHP 8.1 made 
 Donate Me:
 https://sites.google.com/view/hihelloa/ana-sayfa
 
-Bu Me A Coffee: https://sites.google.com/view/hihelloa/ana-sayfa
+Buy Me A Coffee: https://sites.google.com/view/hihelloa/ana-sayfa
